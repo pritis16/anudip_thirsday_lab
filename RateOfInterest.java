@@ -25,24 +25,16 @@ public class RateOfInterest
 		if(age>=60)
 		{
 			if(gender=="male")
-			{
 				System.out.println("The rate of interest is 7%");
-			}
 			else
-			{
 				System.out.println("The rate of interest is 7.5%");
-			}
 		}
 		else
 		{
 			if(gender=="male")
-			{
 				System.out.println("The rate of interest is 5%");
-			}
 			else
-			{
 				System.out.println("The rate of interest is 5%");
-			}
 		}
 		sc.close();
 	}
