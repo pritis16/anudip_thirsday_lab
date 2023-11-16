@@ -1,3 +1,13 @@
+/*2)Write a program to accept age and gender from the user and check the ROI according to condition
+
+above 60
+M: 7%
+F: 7.5%
+
+below 60
+M,F: 5%
+*/
+
 import java.util.Scanner;
 public class RateOfInterest 
 {
